@@ -9,6 +9,7 @@ function About() {
         backgroundSize: "100% 100%",
         backgroundRepeat: "no-repeat",
         textAlign: "center",
+        color: "white",
       }}
     >
       <section>

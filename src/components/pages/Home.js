@@ -9,6 +9,7 @@ function Home() {
         backgroundSize: "100% 100%",
         backgroundRepeat: "no-repeat",
         textAlign: "center",
+        color: "white",
       }}
     >
       <h1>Main Page</h1>
