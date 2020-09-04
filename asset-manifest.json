@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/reactPortfolio/static/js/main.27908024.chunk.js",
+    "main.js.map": "/reactPortfolio/static/js/main.27908024.chunk.js.map",
+    "runtime-main.js": "/reactPortfolio/static/js/runtime-main.8278393b.js",
+    "runtime-main.js.map": "/reactPortfolio/static/js/runtime-main.8278393b.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/reactPortfolio/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.436678de.chunk.js": "/reactPortfolio/static/js/2.436678de.chunk.js",
+    "static/js/2.436678de.chunk.js.map": "/reactPortfolio/static/js/2.436678de.chunk.js.map",
+    "index.html": "/reactPortfolio/index.html",
+    "precache-manifest.d0b52d181075d8531be108d6ce5e6440.js": "/reactPortfolio/precache-manifest.d0b52d181075d8531be108d6ce5e6440.js",
+    "service-worker.js": "/reactPortfolio/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/reactPortfolio/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/js/2.436678de.chunk.js.LICENSE.txt": "/reactPortfolio/static/js/2.436678de.chunk.js.LICENSE.txt",
+    "static/media/beach.jpg": "/reactPortfolio/static/media/beach.0906a761.jpg",
+    "static/media/mountain.jpg": "/reactPortfolio/static/media/mountain.d1a4f9b7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8278393b.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.436678de.chunk.js",
+    "static/js/main.27908024.chunk.js"
+  ]
+}
